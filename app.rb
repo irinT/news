@@ -11,7 +11,6 @@ before { puts "Parameters: #{params}" }
 # enter your Dark Sky API key here
 ForecastIO.api_key = "2c29c734782bb3b17ce35a504f210207"
 
-
 get "/" do
   view "ask"
 end
