@@ -1,0 +1,72 @@
+h1 {
+            color: red;
+            font-size: 48px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            margin-left: 15px;
+            margin-right: 20px;
+            font-family: 'Lobster';
+            padding-left: ;
+    }
+
+h2 {
+            color: rgb(88, 88, 88);
+            font-size: 30px;
+            margin-top: 10px;
+            margin-bottom: 20px;
+            margin-left: 15px;
+            margin-right: 20px;
+            font-family: 'Anton';
+
+            border:1px solid pink;
+            padding-left: ;
+        }
+    
+
+
+.title {
+            text-align: left;
+            font-family: 'Barlow Condensed';
+            font-size: 25px;
+            font-weight: bold;
+            color: red
+            
+}
+
+
+body{
+    background-color: black;
+    font-family: 'Barlow Condensed'
+}
+
+.page{
+    background-color: white
+}
+
+.temp{
+    font-size: 70px;
+    font-family: 'Barlow Condensed';
+    color: black
+}
+
+.weather
+{
+    font-size: 20px;
+    font-family: 'Barlow Condensed';
+    text-decoration-color: red;
+    color: black;
+    }
+
+.thumb {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  height: 100px;
+}
+
+.headline {
+text-align: left;
+font-family: 'Barlow Condensed';
+font-size: 20px;
+font-weight: bold;
+color:black}
